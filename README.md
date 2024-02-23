@@ -70,6 +70,9 @@ product-filter-app/
   └── README.md
 ```
 
+## UI Design
+![alt text](image.png)
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, feel free to open an issue or submit a pull request. 
